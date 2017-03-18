@@ -1,0 +1,15 @@
+motor 1: 80mm
+pully support: 30mm
+left ext: 20mm
+right ext: 20mm
+middle structure: 80mm
+
+MGM 12-H Carriage
+MGM 12-R Rail
+
+Idler Wheel:
+17.55 mm
+22 mm
+
+m140 450nm-445nm = TO18
+M series can run on higher current and power

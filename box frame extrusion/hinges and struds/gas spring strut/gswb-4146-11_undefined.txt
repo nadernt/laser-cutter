@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"GSWB-4146-11";"";
+"MATERIAL";"ST";"";
+"SUPPLIER";"ASRAYMOND";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-19112014-097187";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Welded end gas struts - Rod diameter : 6 - Body diameter : 15 - Stroke : 40";"";
+"TraceParts.InstanceId";"10-19112014-097187AOK471AVRHAM3X4NXXL2QHQNC";"";
+"TraceParts.PartTitle";"Welded End Gas Struts";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ASRAYMOND:/F_ASRAYMOND/ASRAYMOND.060/ASRAYMOND.060.010/10-19112014-097187";"";

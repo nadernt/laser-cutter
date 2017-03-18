@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"526-4-12";"";
+"MATERIAL";"Alloyed steel";"";
+"SUPPLIER";"RABOURDIN INDUSTRIE";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"04-07012003-108553";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Hexagon socket head cap screw, slim head (CZHC)";"";
+"TraceParts.InstanceId";"04-07012003-1085532695K81KHBUDHP97SCW1JW8PX";"";
+"TraceParts.PartTitle";"Hexagon socket head cap screw, slim head (CZHC) (ref.526)";"";
+"TraceParts.PartVersion";"1.4.1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RABOURDIN_INDUSTRIE:/F_RAB_INDUS/F_RAB_INDUS.RAB.1_50/F_RAB_INDUS.RAB.1_50.090/04-07012003-108553";"";
